@@ -9,7 +9,7 @@ get data from api , then using chainin .then() and post data to our server then 
 looks amazing :)
 
 ## Setup project
-
+```
 npm install node
 ```
 Install Express
