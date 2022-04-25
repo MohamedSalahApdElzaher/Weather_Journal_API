@@ -1,7 +1,7 @@
 # Weather-Journal-App Project
 
 ## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+This project is part of udacity nano-degree program and it requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
 
 ## Instructions
 In this project we will modfiy server.js , app.js to can fetch data from weather API using only Zip Code
